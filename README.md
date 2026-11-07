@@ -129,7 +129,7 @@ MARIO
 | 🧱 Break a brick as Super Mario | **+50** |
 | 👟 Stomp a walker | **+100**, then chains of 200, 400, 500, 800, 1000, 2000, 4000, 5000, 8000, and a **free life** |
 | 🐢 Stomp a snail, then kick its shell | **+400**, and the shell kills what it hits (**+500** each) |
-| 🪙 Collect 100 coins | **+1 life** |
+| 💰 Collect 100 coins | **+1 life** |
 | 🏁 Touch the flag pole | **5000** at the top down to **100** at the bottom, plus **time left × 50** |
 
 > ⚠️ A hit as Super makes you Small, with 2 seconds of blinking protection. A hit as Small, a pit or the clock reaching 0 costs a life. You have **3 lives**.
